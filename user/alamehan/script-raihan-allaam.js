@@ -1,11 +1,3 @@
-//---------- Bootstrap Tooltip
-
-$(function () {
-  $('[data-toggle="tooltip"]').tooltip()
-})
-
-//---------- Sweet Alert Js
-
 //=== BAGIAN 1: PORTFOLIOS
 
 $('.alert-show-alamehan-black').click(function () {
@@ -18,7 +10,7 @@ $('.alert-show-alamehan-black').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="../index.html">Open</a>',
+    confirmButtonText: '<a href="http://alamehan.github.io/">Open</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });

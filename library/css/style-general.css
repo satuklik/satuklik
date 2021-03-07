@@ -9,44 +9,14 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  font-family: 'Source Sans Pro', sans-serif;
-  background-color: #101117 !important;
+.container {
+  max-width: 960px;
+  /* margin: auto; */
+  /* padding: 0 30px; */
 }
 
-h1 {
-  font-family: 'Playfair Display', serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
-  color: #F7F9F9;
-}
-
-h2 {
-  font-weight: 300;
-  font-size: 24px;
-  color: #D0D3D4;
-}
-
-hr {
-  background-color: gray;
-  border-radius: 12px;
-  height: 1px;
-}
-
-.separator {
-  color: lightskyblue;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  font-size: 24px;
-}
-
-.separator::before,
-.separator::after {
-  content: '';
-  flex: 1;
-  border-bottom: 2px solid #000;
+.unone {
+  user-select: none;
 }
 
 .separator::before {
@@ -57,16 +27,9 @@ hr {
   margin-left: .25em;
 }
 
-/* ------------------------------- GENERAL CSS ------------------------------ */
-
-.container {
-  max-width: 960px;
-  /* margin: auto; */
-  /* padding: 0 30px; */
-}
-
-.unone {
-  user-select: none;
+.profile {
+  width: 160px;
+  border-radius: 100%;
 }
 
 /* ------------------------------- SWEET ALERT ------------------------------ */
@@ -96,12 +59,6 @@ hr {
   border-radius: 12px !important;
 
   margin-top: 260px !important;
-}
-
-.popup-noproject {
-  width: 360px !important;
-  border-radius: 12px;
-  background-color: #1A1C26 !important;
 }
 
 .confirm-button-noproject {
@@ -160,18 +117,4 @@ hr {
   body {
     zoom: 67%;
   }
-}
-
-/* --------------------------------- LAINNYA --------------------------------- */
-
-.profile {
-  width: 160px;
-  border-radius: 100%;
-}
-
-a {
-  font-style: normal;
-  font-weight: 400 !important;
-  font-size: 24px !important;
-  color: #F9F9F9 !important;
 }
