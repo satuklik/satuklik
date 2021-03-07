@@ -3,7 +3,7 @@
 $('.alert-show-alamehan-black').click(function () {
   Swal.fire({
     title: '🦸‍♂️ Alamehan\'s\n Personal Website',
-    imageUrl: 'assets/logo-alamehan-black.svg',
+    imageUrl: '../@original/assets/logo-alamehan-black.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -19,7 +19,7 @@ $('.alert-show-alamehan-black').click(function () {
 $('.alert-show-linkedin').click(function () {
   Swal.fire({
     title: '👨‍🎓 LinkedIn:\n Curriculum Vitae',
-    imageUrl: 'assets/logo-linkedin.svg',
+    imageUrl: '../@original/assets/logo-linkedin.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -35,7 +35,7 @@ $('.alert-show-linkedin').click(function () {
 $('.alert-show-kaggle').click(function () {
   Swal.fire({
     title: '🙋‍♂️ Kaggle:\n Data Science Projects',
-    imageUrl: 'assets/logo-kaggle.svg',
+    imageUrl: '../@original/assets/logo-kaggle.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -51,7 +51,7 @@ $('.alert-show-kaggle').click(function () {
 $('.alert-show-github').click(function () {
   Swal.fire({
     title: '👨‍💻 GitHub:\n Personal Projects',
-    imageUrl: 'assets/logo-github.svg',
+    imageUrl: '../@original/assets/logo-github.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -67,7 +67,7 @@ $('.alert-show-github').click(function () {
 $('.alert-show-codepen').click(function () {
   Swal.fire({
     title: '👨‍💻 Codepen:\n Frontend Projects',
-    imageUrl: 'assets/logo-codepen.svg',
+    imageUrl: '../@original/assets/logo-codepen.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -83,7 +83,7 @@ $('.alert-show-codepen').click(function () {
 $('.alert-show-behance').click(function () {
   Swal.fire({
     title: '👨‍🎨 Behance:\n Design & Illustration',
-    imageUrl: 'assets/logo-behance.svg',
+    imageUrl: '../@original/assets/logo-behance.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -99,7 +99,7 @@ $('.alert-show-behance').click(function () {
 $('.alert-show-dribbble').click(function () {
   Swal.fire({
     title: '👨‍🎨 Dribbble:\n Design & Illustration',
-    imageUrl: 'assets/logo-dribbble.svg',
+    imageUrl: '../@original/assets/logo-dribbble.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -117,7 +117,7 @@ $('.alert-show-dribbble').click(function () {
 $('.alert-show-insightstories').click(function () {
   Swal.fire({
     title: '✍️ Medium:\n Insight Stories',
-    imageUrl: 'assets/logo-medium.svg',
+    imageUrl: '../@original/assets/logo-medium.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -133,7 +133,7 @@ $('.alert-show-insightstories').click(function () {
 $('.alert-show-podcastsundaytoday').click(function () {
   Swal.fire({
     title: '🎙️ Spotify:\n Podcast Sunday Today', 
-    imageUrl: 'assets/logo-spotify.svg',
+    imageUrl: '../@original/assets/logo-spotify.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -149,7 +149,7 @@ $('.alert-show-podcastsundaytoday').click(function () {
 $('.alert-show-alamehantuts').click(function () {
   Swal.fire({
     title: '🎬 Youtube:\n AlamehanTuts',
-    imageUrl: 'assets/logo-youtube.svg',
+    imageUrl: '../@original/assets/logo-youtube.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -165,7 +165,7 @@ $('.alert-show-alamehantuts').click(function () {
 $('.alert-show-microblogplus').click(function () {
   Swal.fire({
     title: '🎯 Instagram:\n Microblog Plus',
-    imageUrl: 'assets/logo-instagram.svg',
+    imageUrl: '../@original/assets/logo-instagram.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -181,7 +181,7 @@ $('.alert-show-microblogplus').click(function () {
 $('.alert-show-twitter').click(function () {
   Swal.fire({
     title: '🎭 Twitter',
-    imageUrl: 'assets/logo-twitter.svg',
+    imageUrl: '../@original/assets/logo-twitter.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -197,7 +197,7 @@ $('.alert-show-twitter').click(function () {
 $('.alert-show-facebook').click(function () {
   Swal.fire({
     title: '🎭 Facebook',
-    imageUrl: 'assets/logo-facebook.svg',
+    imageUrl: '../@original/assets/logo-facebook.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -215,7 +215,7 @@ $('.alert-show-facebook').click(function () {
 $('.alert-show-anggrekclassifier').click(function () {
   Swal.fire({
     title: '🤖 Anggrek Classifier:\n Artificial Intelligence',
-    imageUrl: 'assets/logo-anggrekclassifier.svg',
+    imageUrl: '../@original/assets/logo-anggrekclassifier.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -231,7 +231,7 @@ $('.alert-show-anggrekclassifier').click(function () {
 $('.alert-show-thereaderrr').click(function () {
   Swal.fire({
     title: '📖 The Readerrr:\n Reader Starter Kit',
-    imageUrl: 'assets/logo-thereaderrr.svg',
+    imageUrl: '../@original/assets/logo-thereaderrr.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -247,7 +247,7 @@ $('.alert-show-thereaderrr').click(function () {
 $('.alert-show-niceref').click(function () {
   Swal.fire({
     title: '📘 NiceRef:\n Reference Books',
-    imageUrl: 'assets/logo-niceref.svg',
+    imageUrl: '../@original/assets/logo-niceref.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -261,7 +261,7 @@ $('.alert-show-niceref').click(function () {
 $('.alert-show-nicelist').click(function () {
   Swal.fire({
     title: '📜 NiceList:\n Curated List',
-    imageUrl: 'assets/logo-nicelist.svg',
+    imageUrl: '../@original/assets/logo-nicelist.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -277,7 +277,7 @@ $('.alert-show-nicelist').click(function () {
 $('.alert-show-nicebook').click(function () {
   Swal.fire({
     title: '📚 NiceBook:\n Book Recommendation',
-    imageUrl: 'assets/logo-nicebook.svg',
+    imageUrl: '../@original/assets/logo-nicebook.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -293,7 +293,7 @@ $('.alert-show-nicebook').click(function () {
 $('.alert-show-nicevizual').click(function () {
   Swal.fire({
     title: '🎲 NiceVizual:\n Interactive Apps',
-    imageUrl: 'assets/logo-nicevizual.svg',
+    imageUrl: '../@original/assets/logo-nicevizual.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -309,7 +309,7 @@ $('.alert-show-nicevizual').click(function () {
 $('.alert-show-righttr4ck').click(function () {
   Swal.fire({
     title: '🔎 RightTr4ck:\n "How to Learn"',
-    imageUrl: 'assets/logo-righttr4ck.svg',
+    imageUrl: '../@original/assets/logo-righttr4ck.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -325,7 +325,7 @@ $('.alert-show-righttr4ck').click(function () {
 $('.alert-show-atozmind').click(function () {
   Swal.fire({
     title: '🧠 AtozMind:\n Mind Map Collection',
-    imageUrl: 'assets/logo-atozmind.svg',
+    imageUrl: '../@original/assets/logo-atozmind.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -341,7 +341,7 @@ $('.alert-show-atozmind').click(function () {
 $('.alert-show-knowyourself101').click(function () {
   Swal.fire({
     title: '👦 Know Yourself 101:\n "Best of You"',
-    imageUrl: 'assets/logo-knowyourself101.svg',
+    imageUrl: '../@original/assets/logo-knowyourself101.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
@@ -355,7 +355,7 @@ $('.alert-show-knowyourself101').click(function () {
 $('.alert-show-oldworks').click(function () {
   Swal.fire({
     title: '📦 Old Works (2012):\n Game & Arts',
-    imageUrl: 'assets/logo-blogger.svg',
+    imageUrl: '../@original/assets/logo-blogger.svg',
     customClass: {
       popup: 'popup-noproject',
       confirmButton: 'confirm-button-noproject',
