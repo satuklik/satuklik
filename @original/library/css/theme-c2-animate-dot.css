@@ -1,6 +1,6 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
-  background-color: #101117 !important;
+  background: #ECEEEF !important;
 }
 
 h1 {
@@ -42,11 +42,20 @@ hr {
 .separator::after {
   content: '';
   flex: 1;
-  border-bottom: 2px solid #000;
+  /* border-bottom: 2px solid #000; */
 }
 
 .popup-noproject {
   width: 360px !important;
   border-radius: 12px;
   background-color: #1A1C26 !important;
+}
+
+/* ============================== ANIMATION ==============================*/
+/* REF: https://codepen.io/nashvail/pen/wpGgXO */
+
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
 }
