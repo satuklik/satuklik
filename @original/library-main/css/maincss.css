@@ -61,6 +61,25 @@ h5 {
   background-color: #1F2434;
 }
 
+.btn-form {
+  width: 326px;
+  border: 2px solid;
+  border-radius: 12px;
+  color: #262626;
+  background-color: #282F44;
+  padding: 16px 24px 12px 24px;
+
+  transition: 0.3s;
+}
+
+.btn-form:hover,
+.btn-form:active {
+  border: 2px solid #282F44;
+  border-radius: 100px;
+  background-color: #1F2434;
+}
+
+
 .text-border-white {
   /* SHADOW WHITE */
   text-shadow: 1px 1px 2px #F9F9F9;

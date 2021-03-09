@@ -71,6 +71,27 @@ hr {
   right: 0%;
 }
 
+.blok-premium {
+  display: inline-block;
+
+  /* Untuk Check Efek inline-block */
+  /* background-color: red; */
+}
+
+.lencana-premium {
+  display: block;
+  position: absolute;
+  width: 36px;
+
+  /* Posisi Kiri Atas */
+  margin-top: -160px;
+  margin-left: 170px;
+
+  /* Posisi Tengah */
+  /* margin-top: -32px; */
+  /* margin-left: 116px; */
+}
+
 /* ============================== ANIMATION ==============================*/
 /* REF: https://codepen.io/nashvail/pen/wpGgXO */
 
