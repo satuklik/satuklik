@@ -55,3 +55,23 @@ hr {
   border-radius: 12px;
   background: #1A1A1A !important;
 }
+
+.btn-back {
+  position: fixed;
+  z-index: 100;
+  left: 6%;
+  top: 3%;
+
+  border: 0px solid;
+  border-radius: 100px;
+  padding: 0px;
+
+  background-color: transparent;
+}
+
+.banner-contoh {
+  position: fixed;
+  z-index: 100;
+  top: 0%;
+  right: 0%;
+}
