@@ -1,10 +1,12 @@
 body {
-  font-family: 'Source Sans Pro', sans-serif;
-  background-color: #FCF56F !important;
+  font-family: 'Lato', sans-serif;
+  background-color: #468EEF !important;
+
+  text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2)
 }
 
 h1 {
-  font-family: 'Exo', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -14,7 +16,7 @@ h1 {
 h2 {
   font-weight: 300;
   font-size: 24px;
-  color: #D0D3D4;
+  color: #ECECEC;
 }
 
 a {
@@ -31,7 +33,7 @@ hr {
 }
 
 .separator {
-  color: lightskyblue;
+  color: #E1F5FE;
   display: flex;
   align-items: center;
   text-align: center;
@@ -48,7 +50,7 @@ hr {
 .popup-noproject {
   width: 360px !important;
   border-radius: 12px;
-  background-color: #1A1C26 !important;
+  background-color: #468EEF !important;
 }
 
 /* ============================== ANIMATION ==============================*/
@@ -86,10 +88,6 @@ hr {
   text-align: center;
   top: 50%;
   transform: translate(-50%, -50%);
-}
-
-h1 {
-  font-family: monospace;
 }
 
 @keyframes slide {

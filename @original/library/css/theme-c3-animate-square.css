@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  font-family: 'Exo', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -14,7 +14,7 @@ h1 {
 h2 {
   font-weight: 300;
   font-size: 24px;
-  color: #D0D3D4;
+  color: #ECECEC;
 }
 
 a {
@@ -31,7 +31,7 @@ hr {
 }
 
 .separator {
-  color: lightskyblue;
+  color: #C5CAE9;
   display: flex;
   align-items: center;
   text-align: center;
@@ -48,7 +48,7 @@ hr {
 .popup-noproject {
   width: 360px !important;
   border-radius: 12px;
-  background-color: #1A1C26 !important;
+  background: linear-gradient(to bottom, #8f94fb, #4e54c8) !important;
 }
 
 /* ============================== ANIMATION ==============================*/
