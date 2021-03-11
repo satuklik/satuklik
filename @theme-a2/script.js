@@ -8,7 +8,7 @@ $('.alert-linkedin').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -24,7 +24,7 @@ $('.alert-facebook').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -40,7 +40,7 @@ $('.alert-twitter').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -56,7 +56,7 @@ $('.alert-instagram').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -72,7 +72,7 @@ $('.alert-twitch').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -88,7 +88,7 @@ $('.alert-tiktok').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -104,7 +104,7 @@ $('.alert-shopee').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -120,7 +120,7 @@ $('.alert-tokopedia').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -136,7 +136,7 @@ $('.alert-bukalapak').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -152,7 +152,7 @@ $('.alert-youtube').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -168,7 +168,7 @@ $('.alert-blogger').click(function () {
       cancelButton: 'cancel-button-noproject',
     },
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="#">Open</a>',
+    confirmButtonText: '<a href="#">Visit</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
